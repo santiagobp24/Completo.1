@@ -12,7 +12,7 @@ public class App
         
         System.out.println("1 preprod");
         
-        System.out.println("1 develop, 2 develop, 3 develop");
+        System.out.println("1 develop, 2 develop, 3 develop, 4 develop");
         
         System.out.println("1 feature/1, 2 feature/1");
         
