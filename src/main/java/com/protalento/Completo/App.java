@@ -12,9 +12,9 @@ public class App
         
         System.out.println("1 preprod");
         
-        System.out.println("1 develop");
+        System.out.println("1 develop, 2 develop");
         
-        
+        System.out.println("1 feature/1, 2 feature/1");
         
         System.out.println("1 feature/2, 2 feature/2, 3 feature/2");
     }
